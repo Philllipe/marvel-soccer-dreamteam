@@ -2,7 +2,8 @@
 
 ## About The Project
 
-This is a simple app that is mimiced off fantasy draft applications. You can select a Maravel character and add them to your team and share what team you created. You can have a max of 5 characters on your team, a Goalkeeper, Defender, Midfielder, Striker, and the last character can be any outfield position. 
+This is a simple app that is mimicked off fantasy draft applications. You can select a Marvel characters and add them to your team and share what team you created. You can have a max of 5 characters on your team, a Goalkeeper, Defender, Midfielder, Striker, and the last character can be any outfield position. 
+To add characters simply click on the empty locations and a character list will appear. From here you can search for a character or choose one from the list. To add another position click the small + on the character cards.
 
 ## Getting Started 
 You'll need to get an API key from Marvel. You can get one [here](https://developer.marvel.com/).
@@ -11,7 +12,6 @@ You'll need to get an API key from Marvel. You can get one [here](https://develo
 
 - [React](https://reactjs.org/) 
 - [Tailwind CSS](https://tailwindcss.com/) 
-- [Axios](https://axios-http.com/docs/intro) - for API calls
 
 ## How To Use
 
